@@ -1,3 +1,3 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.bregant.azure_speech_recognition">
+  package="com.example.azure_speech_recognition_null_safety">
 </manifest>
